@@ -4,7 +4,7 @@ import javax.print.DocFlavor;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.IOException;
-;
+
 
 public class Txt extends Main implements ActionListener {
 
