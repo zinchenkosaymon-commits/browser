@@ -14,3 +14,4 @@ button close.
 я использую java с официального сайта:
 https://www.oracle.com/java/technologies/javase/jdk25-archive-downloads.html
 версия библиотеки javafx в среде разработки:
+intelij IDEA
